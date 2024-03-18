@@ -1,0 +1,9 @@
+comida: pizza
+
+ingredientes: 
+
+1.masa
+2.salsa de tomate
+3.queso
+4.salsa
+5.levadura
